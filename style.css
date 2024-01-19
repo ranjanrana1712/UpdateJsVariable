@@ -33,3 +33,24 @@ body {
 span {
     color: var(--base)
 }
+
+
+@media (max-width: 768px){
+    :root {
+        --spacing: 2px;
+    }
+    body{
+        font-size: 30px;
+    }
+    .controls {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+}
+    
