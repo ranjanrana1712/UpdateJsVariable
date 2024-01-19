@@ -1,12 +1,15 @@
 
 ## Welcome! 👋
 
-Title:Update css variable using JS
+#Title:Update css variable using JS
+#visit Here to try: 
 
 
 ## screen shot
+![Screenshot 2024-01-19 at 12 53 46 PM](https://github.com/ranjanrana1712/UpdateJsVariable/assets/116024984/8eb33e49-72f9-4072-b1dc-34cfdf388d53)
 
 
+![Screenshot 2024-01-19 at 12 54 24 PM](https://github.com/ranjanrana1712/UpdateJsVariable/assets/116024984/f1f53eee-8249-4c3e-9454-23a67b35e049)
 
 
 ## 🍾 Description of project 💣
